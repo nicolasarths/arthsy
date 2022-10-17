@@ -1,0 +1,14 @@
+{
+  "name": "arthsy",
+  "version": "1.0.0",
+  "description": "A css library for fast and simplified development",
+  "main": "index.css",
+  "keywords": [
+    "css"
+  ],
+  "author": {
+    "name": "Nícolas Arths",
+    "url": "https://nicolasarths.com.br/en"
+  },
+  "license": "ISC"
+}

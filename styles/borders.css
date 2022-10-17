@@ -1,0 +1,16 @@
+
+/* BORDERS */
+
+.border-highlight { border: var(--highlight) solid .1rem}
+
+.border-black { border: black solid .1rem}
+.border-white { border: white solid .1rem}
+.border-success { border: var(--success) solid .1rem}
+.border-failure { border: var(--failure) solid .1rem}
+
+
+/* ROUNDNESS */
+
+.soft-rounded { border-radius: 5px }
+.rounded { border-radius: 10px }
+.circular, .circle { border-radius: 50% }

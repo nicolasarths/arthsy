@@ -1,0 +1,37 @@
+/* HIDING */
+.hide { display: none }
+
+.indent-out { text-indent: -999999999px; position: absolute }
+
+.ant-man { scale: 0 }
+
+
+@media only screen and (max-width: 1200px) {
+  .hide-extra {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .hide-big {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .hide-medium {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .hide-small {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 300px) {
+  .hide-smallest {
+    display: none;
+  }
+}

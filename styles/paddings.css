@@ -1,0 +1,29 @@
+/* PADDINGS */
+
+.padding { padding: 10px }
+.padding-y { padding-top: 10px; padding-bottom: 10px }
+.padding-x { padding-left: 10px; padding-right: 10px }
+.padding-top { padding-top: 10px }
+.padding-bottom { padding-bottom: 10px }
+.padding-left { padding-left: 10px }
+.padding-right { padding-right: 10px }
+
+.padding-small { padding: 30px }
+.padding-y-small { padding-top: 30px; padding-bottom: 30px }
+.padding-x-small { padding-left: 30px; padding-right: 30px }
+.padding-top-small { padding-top: 30px }
+.padding-bottom-small { padding-bottom: 30px }
+
+.padding-medium { padding: 50px }
+.padding-y-medium { padding-top: 50px; padding-bottom: 50px }
+.padding-x-medium { padding-left: 50px; padding-right: 50px }
+.padding-top-medium { padding-top: 50px }
+.padding-bottom-medium { padding-bottom: 50px }
+
+.padding-big { padding: 100px }
+.padding-y-big { padding-top: 100px; padding-bottom: 100px }
+.padding-x-big { padding-left: 100px; padding-right: 100px }
+.padding-top-big { padding-top: 100px }
+.padding-bottom-big { padding-bottom: 100px }
+
+.no-padding { padding: 0; }

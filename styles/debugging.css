@@ -1,0 +1,3 @@
+.debug-border { border: 2px red solid }
+.debug-outline { outline: 2px red solid }
+.debug-background, .debug-bg { background-color: rgb(255, 0, 0, 0.08) }
