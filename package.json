@@ -10,5 +10,6 @@
     "name": "Nícolas Arths",
     "url": "https://nicolasarths.com.br/en"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/nicolasarths/arthsy"
 }
