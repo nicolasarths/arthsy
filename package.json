@@ -3,6 +3,9 @@
   "version": "2.0.0",
   "description": "A css library for fast and simplified development",
   "main": "index.css",
+  "publishConfig": {
+    "registry": "https://npm-pkg.github.com/@nicolasarths"
+  },
   "keywords": [
     "css"
   ],
